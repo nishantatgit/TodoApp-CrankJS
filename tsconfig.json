@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM","DOM.Iterable","ES2015","ES2015.Iterable"],
+    "jsx": "react",
+    "target": "ES5",
+    "noEmitOnError": true,
+    "module": "CommonJS",
+    "noImplicitAny": false,
+    "allowJs": true,
+  },
+  "exclude": ["node_modules"]
+}
